@@ -1,4 +1,4 @@
-# study heroku
+# init heroku
 use cloud9 (ide.c9.io) as learning environment
 
 for ref check this https://devcenter.heroku.com/articles/getting-started-with-python#introduction
